@@ -5,14 +5,14 @@ Server MAN-PC
 - Cloud9 -> `pkg install nano`
 - Cloud9 -> `pkg install nodejs-current`
 - Cloud9 -> `pkg install nodejs-current-dev`
-- Cloud9 -> `git clone` https://github.com/Selfbotman/MAN-PC
-- Cloud9 -> `cd MAN-PC && npm install`
+- Cloud9 -> `git clone https://github.com/wasdeci/KP 
+- Cloud9 -> `cd KP && npm install`
 - Cloud9 -> `cd src` npm start
 
 # alphat-third
--Forked version of LineAlphat JS #DEV #22/12/2017 #18PM 
+-Forked version of LineAlphat JS #DEV # 19.3.2019 #18PM 
 
--LineAlphat -> https://github.com/alfathdirk/LineAlphatJS
+-LineAlphat -> https://github.com/wasdeci/KP
 
 -Status: Very Good
 
@@ -26,7 +26,7 @@ Server MAN-PC
 
 -How to run bot for the first time ?
 
--git clone https://github.com/CarTooonn/alphat-third
+-git clone https://github.com/wasdeci/KP
 
 -cd alphat-third && npm install
 
@@ -36,56 +36,4 @@ Server MAN-PC
 
 -IMPORTANT
 
--PLEASE DO npm i FOR THIS UPDATE -> #27/10/2017
-
--Still work 👷
--CHANGELOG
-
--Bug fixed (LOG_OUT)
--TO - DO
-
--Nothing
-
--CMD / KEYWORD
-
--type !key for the keyword
-
-
-How to activate AutoLike feature ?
-
-1. Goto src/bot.js
-
-2. Then find this " //LINE.aLike() //AutoLike (CAUSE LAG) " (without quotes)
-
-3. Change into this " LINE.aLike() " (without quotes)
-
-4. DONE
-
-Author
-
-@alfathdirk (LINE ALPHAT JS)
-
-@GoogleX (LINE ALPHAT-FORK)
-
-Contact Me / Need Help ?
-@LINE (GoogleX)
-
-FAQ (Frequently Asked Questions)
-
-Q: "How to run this bot 24/7 ?"
-A: "Use Termux on your android phone, and run this bot on it. You can use it 24/7 on VPS or RDP too"
-
-Q: "Im using termux, and i have problem with npm i . What i gonna do ?"
-A: "After you clone with git clone, then cd my and you got problem with npm i. All you gonna do is unzip node.js.zip"
-
-Q: "How to edit some script on Termux ?"
-A: "I recommend you to use text editor terminal edition like vim or nano"
-
-Q: "Best keyboard for Termux ?"
-A: "I recommend you to use Hacker's Keyboard on Playstore"
-
-Q: "How to install latest nodejs on termux ?"
-A: "Simple, pkg install nodejs-current"
-
-Q: "How to fix an error like this 'Error: Cannot find module...... ' ?"
-A: "Do npm i !"
+-PLEASE DO npm i FOR THIS UPDATE -> # 19.3.2019
