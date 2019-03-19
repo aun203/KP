@@ -5,7 +5,7 @@ Server MAN-PC
 - Cloud9 -> `pkg install nano`
 - Cloud9 -> `pkg install nodejs-current`
 - Cloud9 -> `pkg install nodejs-current-dev`
-- Cloud9 -> `git clone https://github.com/wasdeci/KP 
+- Cloud9 -> `git clone https://github.com/wasdeci/KP` 
 - Cloud9 -> `cd KP && npm install`
 - Cloud9 -> `cd src` npm start
 
